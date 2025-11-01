@@ -22,9 +22,8 @@ I'm a geneticist, bioinformatician, data scientist and full stack developer, bas
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cantalaweb)](https://git.io/streak-stats)
 
 ## Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-cantalapiedra-09a4577/)
-[![](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/cantalaweb)
-
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/diego-cantalapiedra-09a4577/))  
+[![](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)]([#](https://x.com/cantalaweb))
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on a web app for managing a pantry. So far, I've got the backend ready.
