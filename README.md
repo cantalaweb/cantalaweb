@@ -2,11 +2,14 @@
 # Cantalaweb
 
 ## About Me
-I'm a geneticist, bioinformatician, data scientist and full stack developer, based in Valencia (Spain).
+I am a Data Scientist with a solid foundation in data analysis, Machine Learning and visualization, specialist in Python, EDA, PostgreSQL and clear communication of results. I bring a previous career as a geneticist and bioinformatician, where I developed scripts, pipelines and automations to transform large volumes of data into clinical decisions and efficient processes. What differentiates me is the combination of:
+- Analytical rigour + product focus: I turn real needs into actionable insights and reproducible solutions.
+- Automation and efficiency: design robust and measurable data processes.
+- Technical communication: I translate complexity into clear conclusions for non-technical profiles.
 
+To round out my profile, I incorporate Full Stack competencies (MERN) that allow me to integrate data + backend + frontend when the project requires it.
 
 ## GitHub stats
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=cantalaweb&show_icons=true&theme=dark"
@@ -20,11 +23,6 @@ I'm a geneticist, bioinformatician, data scientist and full stack developer, bas
 </picture>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cantalaweb&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on a web app for managing a pantry. So far, I've got the backend ready.
-
-🧠 I'm currently learning Machine Learning, as part of the Data Science bootcamp I'm enroled in.
 
 ## Tech skills
 #### Programming languages
