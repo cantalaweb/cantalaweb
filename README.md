@@ -23,7 +23,7 @@ I'm a geneticist, bioinformatician, data scientist and full stack developer, bas
 
 ## Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-cantalapiedra-09a4577/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/cantalaweb)
+[![](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/cantalaweb)
 
 
 ## Other Common Github Profile Sections
