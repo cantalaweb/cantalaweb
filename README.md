@@ -32,15 +32,20 @@ I'm a geneticist, bioinformatician, data scientist and full stack developer, bas
 
 🧠 I'm currently learning Machine Learning, as part of the Data Science bootcamp I'm enroled in.
 
-📫 How to reach me...
+📫 How to reach me...  
 &#115;&#111;&#117;&#114;&#99;&#101;&#64;&#99;&#97;&#110;&#116;&#97;&#108;&#97;&#119;&#101;&#98;&#46;&#99;&#111;&#109;
 
 ## Tech skills
 #### Programming languages
-Python, Javascript, Perl.
+- Python
+- Javascript
+- Perl
 
 #### Databases
-PostgreSQL, MySQL, Sqlite, MongoDB.
+- PostgreSQL
+- MySQL
+- Sqlite
+- MongoDB
 
 
 
