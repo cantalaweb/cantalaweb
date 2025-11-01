@@ -19,7 +19,7 @@ I'm a geneticist, bioinformatician, data scientist and full stack developer, bas
   <img src="https://github-readme-stats.vercel.app/api?username=cantalaweb&show_icons=true" />
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cantalaweb)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cantalaweb&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on a web app for managing a pantry. So far, I've got the backend ready.
