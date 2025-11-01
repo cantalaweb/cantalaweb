@@ -26,11 +26,6 @@ I'm a geneticist, bioinformatician, data scientist and full stack developer, bas
 
 🧠 I'm currently learning Machine Learning, as part of the Data Science bootcamp I'm enroled in.
 
-📫 How to reach me...  
-&#115;&#111;&#117;&#114;&#99;&#101;&#64;&#99;&#97;&#110;&#116;&#97;&#108;&#97;&#119;&#101;&#98;&#46;&#99;&#111;&#109;  
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/diego-cantalapiedra-09a4577/))  
-[![](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)]([#](https://x.com/cantalaweb))  
-
 ## Tech skills
 #### Programming languages
 - Python
@@ -43,6 +38,10 @@ I'm a geneticist, bioinformatician, data scientist and full stack developer, bas
 - Sqlite
 - MongoDB
 
+## How to reach me...  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/diego-cantalapiedra-09a4577/))  
+[![](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)]([#](https://x.com/cantalaweb))  
+&#115;&#111;&#117;&#114;&#99;&#101;&#64;&#99;&#97;&#110;&#116;&#97;&#108;&#97;&#119;&#101;&#98;&#46;&#99;&#111;&#109;  
 
 
 
