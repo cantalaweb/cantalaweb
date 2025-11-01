@@ -37,7 +37,7 @@ To round out my profile, I incorporate Full Stack competencies (MERN) that allow
 - MongoDB
 
 ## How to reach me...  
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/diego-cantalapiedra-09a4577/))  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/diego-cantalapiedra-09a4577/)  
 &#115;&#111;&#117;&#114;&#99;&#101;&#64;&#99;&#97;&#110;&#116;&#97;&#108;&#97;&#119;&#101;&#98;&#46;&#99;&#111;&#109;  
 
 
