@@ -1,3 +1,4 @@
+![](banner_tech+genetics_cropped.png)
 
 ## About Me
 I am a Data Scientist with a solid foundation in data analysis, Machine Learning and visualization, specialist in Python, EDA, PostgreSQL and clear communication of results. I bring a previous career as a geneticist and bioinformatician, where I developed scripts, pipelines and automations to transform large volumes of data into clinical decisions and efficient processes. What differentiates me is the combination of:
