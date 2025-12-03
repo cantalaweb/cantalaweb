@@ -40,7 +40,10 @@ To round out my profile, I incorporate Full Stack competencies (MERN) that allow
     <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" alt="FastAPI"></a>
     <!-- Flask -->
     <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" alt="Flask"></a>
-  <!-- Google Colab -->
+    <!-- Jupyter notebook -->
+    <a href="https://jupyter.org/">
+      <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter Notebook"></a>
+    <!-- Google Colab -->
     <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" alt="Google Colab"></a>
     <!-- Tableau -->
     <a href="https://www.tableau.com/tableau-login-hub"><img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" alt="Tableau"></a>
