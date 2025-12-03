@@ -105,7 +105,7 @@ To round out my profile, I incorporate Full Stack competencies (MERN) that allow
 
 ## How to reach me...  
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/diego-cantalapiedra/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/diegocantalapiedra)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/diegocantalapiedra)  
 &#115;&#111;&#117;&#114;&#99;&#101;&#64;&#99;&#97;&#110;&#116;&#97;&#108;&#97;&#119;&#101;&#98;&#46;&#99;&#111;&#109;  
 
 
