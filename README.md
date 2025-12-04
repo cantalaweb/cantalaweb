@@ -114,15 +114,13 @@ I am seeking opportunities to contribute this hybrid profile in organizations wh
 <br/>
 
 ## Featured projects
-Aquí tienes la tabla en Markdown con tus repos:
-
-| Project                                                                                        | Description                                                                                                           | Stack                                                   | Date       |
-| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------- |
-| [Mercadona_EDA](https://github.com/cantalaweb/Mercadona_EDA)                                   | EDA y análisis nutricional de productos de Mercadona usando scraping, IA y sistemas de clasificación NOVA/semáforos.  | Python, Pandas, Seaborn                                 | 2025-12-03 |
-| [Battleship](https://github.com/cantalaweb/Battleship)                                         | Implementación en consola del clásico Hundir la flota para practicar Python y lógica de juego.                        | Python, NumPy, Rich                                     | 2025-11-29 |
-| [Filmeve](https://github.com/cantalaweb/Filmeve)                                               | Sistema de recomendación de películas con reducción de sesgos y optimización del “slate” mediante algoritmo genético. | Python, Streamlit, Sklearn, XGBoost, LightGBM, CatBoost | 2025-11-28 |
-| [Bus_arrivals_Scriptable_widget](https://github.com/cantalaweb/Bus_arrivals_Scriptable_widget) | Widget de iOS para mostrar las próximas llegadas de autobuses EMT en Valencia usando Scriptable.                      | JS, Scriptable, Python                                  | 2025-04-22 |
-| [Quote-widget](https://github.com/cantalaweb/Quote-widget)           | Widget de iOS (Scriptable) que muestra citas aleatorias usando una API de frases.                                     | JS, Scriptable                                          | 2025-04-22 |
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Filmeve](https://github.com/cantalaweb/Filmeve) | Film recommendation system with bias reduction and slate optimisation using a genetic algorithm. | Python, Streamlit, Sklearn, XGBoost, LightGBM, CatBoost |
+| [Mercadona_EDA](https://github.com/cantalaweb/Mercadona_EDA) | EDA and nutritional analysis of Mercadona products using scraping, AI and NOVA/traffic light-style classification systems. | Python, Pandas, Seaborn |
+| [Battleship](https://github.com/cantalaweb/Battleship) | Console implementation of the classic Battleship game to practise Python and game logic. | Python, NumPy, Rich |
+| [Bus_arrivals_Scriptable_widget](https://github.com/cantalaweb/Bus_arrivals_Scriptable_widget) | iOS widget showing upcoming EMT bus arrivals in Valencia using Scriptable. | JS, Scriptable, Python |
+| [Quote-widget](https://github.com/cantalaweb/Quote-widget) | iOS widget (Scriptable) displaying random quotes using a quotes API. | JS, Scriptable |
 
 
 ## GitHub stats
