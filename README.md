@@ -113,6 +113,17 @@ I am seeking opportunities to contribute this hybrid profile in organizations wh
 </p>
 <br/>
 
+## Featured projects
+Aquí tienes la tabla en Markdown con tus repos:
+
+| Project                                                                                        | Description                                                                                                           | Stack                                                   | Date       |
+| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------- |
+| [Mercadona_EDA](https://github.com/cantalaweb/Mercadona_EDA)                                   | EDA y análisis nutricional de productos de Mercadona usando scraping, IA y sistemas de clasificación NOVA/semáforos.  | Python, Pandas, Seaborn                                 | 2025-12-03 |
+| [Battleship](https://github.com/cantalaweb/Battleship)                                         | Implementación en consola del clásico Hundir la flota para practicar Python y lógica de juego.                        | Python, NumPy, Rich                                     | 2025-11-29 |
+| [Filmeve](https://github.com/cantalaweb/Filmeve)                                               | Sistema de recomendación de películas con reducción de sesgos y optimización del “slate” mediante algoritmo genético. | Python, Streamlit, Sklearn, XGBoost, LightGBM, CatBoost | 2025-11-28 |
+| [Bus_arrivals_Scriptable_widget](https://github.com/cantalaweb/Bus_arrivals_Scriptable_widget) | Widget de iOS para mostrar las próximas llegadas de autobuses EMT en Valencia usando Scriptable.                      | JS, Scriptable, Python                                  | 2025-04-22 |
+| [Quote-widget](https://github.com/cantalaweb/Quote-widget)           | Widget de iOS (Scriptable) que muestra citas aleatorias usando una API de frases.                                     | JS, Scriptable                                          | 2025-04-22 |
+
 
 ## GitHub stats
 <p align='center'>
