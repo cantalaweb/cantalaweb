@@ -8,9 +8,6 @@ I am a Data Scientist with a solid foundation in data analysis, Machine Learning
 
 To round out my profile, I incorporate Full Stack competencies (MERN) that allow me to integrate data + backend + frontend when the project requires it.
 
-## GitHub stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cantalaweb&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
 ## Tech stack
 <!-- tech stack badges ---------------------------------- -->
 <p align='center'>
@@ -105,6 +102,11 @@ To round out my profile, I incorporate Full Stack competencies (MERN) that allow
     <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 <br/>
+
+
+## GitHub stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cantalaweb&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
 
 ## How to reach me...  
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/diego-cantalapiedra/)  
