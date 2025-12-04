@@ -115,8 +115,9 @@ I am seeking opportunities to contribute this hybrid profile in organizations wh
 
 
 ## GitHub stats
+<p align='center'>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cantalaweb&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
+</p>
 
 ## How to reach me...  
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/diego-cantalapiedra/)  
