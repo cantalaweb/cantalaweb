@@ -1,12 +1,22 @@
 ![](banner_tech+genetics_english_cropped.png)
 
 ## About Me
-I am a Data Scientist with a solid foundation in data analysis, Machine Learning and visualization, specialist in Python, EDA, PostgreSQL and clear communication of results. I bring a previous career as a geneticist and bioinformatician, where I developed scripts, pipelines and automations to transform large volumes of data into clinical decisions and efficient processes. What differentiates me is the combination of:
-- Analytical rigour + product focus: I turn real needs into actionable insights and reproducible solutions.
-- Automation and efficiency: design robust and measurable data processes.
-- Technical communication: I translate complexity into clear conclusions for non-technical profiles.
+Data Scientist with a PhD, oriented towards solving business problems through predictive models and automation. I am a hybrid profile combining extensive experience in research and complex data management with current skills in Python, Machine Learning, and Cloud Architecture. I specialize in creating automation tools, machine learning models, and effective data visualization.
 
-To round out my profile, I incorporate Full Stack competencies (MERN) that allow me to integrate data + backend + frontend when the project requires it.
+This comprehensive vision stems from my 15+ year trajectory as a geneticist and bioinformatician. In that high-complexity environment, I developed scripts, pipelines, and automations to transform large volumes of biological data into critical clinical decisions and efficient processes.
+
+What sets me apart in the current market is the combination of:
+
+* **Analytical rigour + product focus:** I don't just analyse data; I convert real business needs into actionable insights and reproducible solutions.
+* **Automation and efficiency:** I implement solutions that significantly reduce manual analysis times and optimise operational costs.
+* **Clear communication:** I translate technical and algorithmic complexity into understandable conclusions for non-technical stakeholders.
+
+To round out my profile, I incorporate Full Stack (MERN) skills. This allows me to go a step further, integrating backend and frontend to prototype or deploy complete data solutions when the project requires it.
+
+I am seeking opportunities to contribute this hybrid profile in organizations where technology, intelligent automation, and data are strategic.
+
+**Main Tech Stack:** Python (EDA, ML Libraries) | SQL (PostgreSQL, MySQL) | Automation | Docker | AWS | Git.
+**Additional Stack:** JavaScript | React | Node.js | MongoDB | Express.
 
 ## Tech stack
 <!-- tech stack badges ---------------------------------- -->
