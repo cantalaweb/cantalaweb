@@ -116,11 +116,11 @@ I am seeking opportunities to contribute this hybrid profile in organizations wh
 ## Featured projects
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Filmeve](https://github.com/cantalaweb/Filmeve) | Film recommendation system with bias reduction and slate optimisation using a genetic algorithm. | Python, Streamlit, Sklearn, XGBoost, LightGBM, CatBoost |
-| [Mercadona_EDA](https://github.com/cantalaweb/Mercadona_EDA) | EDA and nutritional analysis of Mercadona products using scraping, AI and NOVA/traffic light-style classification systems. | Python, Pandas, Seaborn |
-| [Battleship](https://github.com/cantalaweb/Battleship) | Console implementation of the classic Battleship game to practise Python and game logic. | Python, NumPy, Rich |
-| [Bus_arrivals_Scriptable_widget](https://github.com/cantalaweb/Bus_arrivals_Scriptable_widget) | iOS widget showing upcoming EMT bus arrivals in Valencia using Scriptable. | JS, Scriptable, Python |
-| [Quote-widget](https://github.com/cantalaweb/Quote-widget) | iOS widget (Scriptable) displaying random quotes using a quotes API. | JS, Scriptable |
+| [Filmeve](https://github.com/cantalaweb/Filmeve) | Film recommendation system for groups, with bias reduction and slate optimisation using a genetic algorithm. | Python, Streamlit, Sklearn, XGBoost, LightGBM, CatBoost |
+| [Mercadona_EDA](https://github.com/cantalaweb/Mercadona_EDA) | EDA and nutritional analysis of Mercadona products using scraping and NOVA/traffic light-style classification systems. | Python, Pandas, Seaborn |
+| [Battleship](https://github.com/cantalaweb/Battleship) | Console implementation of the classic Battleship game with intelligent computer opponent. | Python, NumPy, Rich |
+| [Bus_arrivals_Scriptable_widget](https://github.com/cantalaweb/Bus_arrivals_Scriptable_widget) | iOS widget showing upcoming EMT bus arrivals in Valencia using Scriptable. | Js, Scriptable, Python |
+| [Quote-widget](https://github.com/cantalaweb/Quote-widget) | iOS widget (Scriptable) displaying random quotes using a quotes API. | Js, Scriptable |
 
 
 ## GitHub stats
