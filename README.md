@@ -116,7 +116,7 @@ I am seeking opportunities to contribute this hybrid profile in organizations wh
 
 ## GitHub stats
 <p align='center'>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cantalaweb&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=cantalaweb&theme=transparent&hide_border=true" alt="GitHub Streak"></a>
 </p>
 
 ## How to reach me...  
