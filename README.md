@@ -120,6 +120,9 @@ I am seeking opportunities to contribute this hybrid profile in organizations wh
 
 
 ## GitHub stats
+![](https://raw.githubusercontent.com/cantalaweb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/cantalaweb/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 <p align='center'>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=cantalaweb&theme=transparent&hide_border=true" alt="GitHub Streak"></a>
 </p>
