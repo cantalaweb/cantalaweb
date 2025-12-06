@@ -41,8 +41,6 @@ I am seeking opportunities to contribute this hybrid profile in organizations wh
     <a href="https://pytorch.org/ecosystem/"><img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" alt="PyTorch"></a>
     <!-- Apache Spark -->
     <a href="https://pypi.org/project/pyspark/"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" alt="Apache Spark"></a>
-    <!-- Databricks -->
-    <a href="https://www.databricks.com/"><img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff" alt="Databricks"></a>
     <!-- FastAPI -->
     <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" alt="FastAPI"></a>
     <!-- Flask -->
@@ -62,7 +60,7 @@ I am seeking opportunities to contribute this hybrid profile in organizations wh
     <a href="https://sqlite.org/index.html"><img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite"></a>
     <!-- MongoDB -->
     <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB"></a>
-      <!-- Docker -->
+    <!-- Docker -->
     <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker"></a>
     <!-- AWS -->
     <a href="https://aws.amazon.com"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="AWS"></a>
@@ -70,17 +68,15 @@ I am seeking opportunities to contribute this hybrid profile in organizations wh
     <a href="https://www.postman.com/web"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"></a>
     <!-- Swagger -->
     <a href="https://swagger.io/"><img src="https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000" alt="Swagger"></a>
-    <!-- Cypress -->
-    <a href="https://www.cypress.io"><img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff" alt="Cypress"></a>
     <!-- JavaScript -->
     <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"></a>
-  <!-- Express.js -->
+    <!-- Express.js -->
     <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="Express.js"></a>
     <!-- Node.js -->
     <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js"></a>
     <!-- React -->
     <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React"></a>
-  <!-- Chart.js -->
+    <!-- Chart.js -->
     <a href="https://www.chartjs.org/"><img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff" alt="Chart.js"></a>
     <!-- Vite -->
     <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="Vite"></a>
@@ -88,9 +84,9 @@ I am seeking opportunities to contribute this hybrid profile in organizations wh
     <a href="https://vitest.dev/"><img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff" alt="Vitest"></a>
     <!-- Jest -->
     <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" alt="Jest"></img></a>
-  <!-- Sequelize -->
+    <!-- Sequelize -->
     <a href="https://sequelize.org/"><img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff" alt="Sequelize"></a>
-      <!-- HTML -->
+    <!-- HTML -->
     <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML"></a>
     <!-- CSS -->
     <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="CSS"></a>
@@ -100,7 +96,7 @@ I am seeking opportunities to contribute this hybrid profile in organizations wh
     <a href="https://daringfireball.net/projects/markdown/syntax"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" alt="Markdown"></a>
     <!-- Bash -->
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"></a>
-  <!-- Perl -->
+    <!-- Perl -->
     <a href="https://www.perl.org/"><img src="https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white" alt="Perl"></a>
     <!-- R -->
     <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" alt="R"></a>
@@ -108,7 +104,7 @@ I am seeking opportunities to contribute this hybrid profile in organizations wh
     <a href="http://www.w3.org/XML"><img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" alt="XML"></a>
     <!-- Git -->
     <a href="https://git-scm.com/downloads"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git"></a>
-  <!-- GitHub -->
+    <!-- GitHub -->
     <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 <br/>
